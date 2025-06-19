@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "_comment": "© 2025 OxyHydra | All rights reserved.",
+    "pack_format": 34,
+    "description": ["",{"text":"Idk why I made this","bold":true,"color":"#A565FF"},{"text":"\n"},{"text":"Produced by","color":"#F8CBFF"},{"text":" OxyHydra","bold":true,"color":"#FFFFFF"}],
+    "supported_formats": {
+      "min_inclusive": 30,
+      "max_inclusive": 99
+    }
+  }
+}
